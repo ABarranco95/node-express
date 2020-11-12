@@ -7,6 +7,6 @@ In Node, 'module.exports' is an object that will hold code to be exported.
 
 For examples
 
-'''js
+```js
 module.exports.beBasic = () => "That's so fetch!"
-'''
+```
